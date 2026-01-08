@@ -1,4 +1,4 @@
-# Vishwajeet SRK – Personal Portfolio Website 🌐
+# Vishwajeet – Personal Portfolio Website 🌐
 
 A modern, interactive, and fully responsive **personal portfolio website** showcasing my skills, projects, and professional journey in **Full-Stack Web Development, Data Analytics, and AI-Driven Automation**.
 
